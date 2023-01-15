@@ -1,4 +1,4 @@
-#![Your Name](new_latest.jpg) Igor Tiulkanov
+## Igor Tiulkanov | ![Your Name](new_latest.jpg)
 Contact Information: ityulkanov@gmail.com | (534) 036-1167 |
 
 ## Summary
