@@ -1,5 +1,5 @@
-# Your Name
-| ![Your Name](new_latest.jpg) | Contact Information: ityulkanov@gmail.com | (534) 036-1167 |
+#![Your Name](new_latest.jpg) Igor Tiulkanov
+Contact Information: ityulkanov@gmail.com | (534) 036-1167 |
 
 ## Summary
 A brief summary of your skills and experience.
