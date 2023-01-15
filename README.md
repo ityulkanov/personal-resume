@@ -1,6 +1,7 @@
 # Your Name
-![Your Name](latest.jpg)
-Contact Information: your.email@example.com | (123) 456-7890
+|   | Your Name |
+|---|---|
+| ![Your Name](new_latest.jpg) | Contact Information: ityulkanov@gmail.com | (534) 036-1167 |
 
 ## Summary
 A brief summary of your skills and experience.
