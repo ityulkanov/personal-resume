@@ -1,6 +1,4 @@
 # Your Name
-|   | Your Name |
-|---|---|
 | ![Your Name](new_latest.jpg) | Contact Information: ityulkanov@gmail.com | (534) 036-1167 |
 
 ## Summary
