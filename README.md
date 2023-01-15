@@ -1,5 +1,5 @@
 # Your Name
-![Your Name](path/to/image.jpg)
+![Your Name](latest.jpg)
 Contact Information: your.email@example.com | (123) 456-7890
 
 ## Summary
